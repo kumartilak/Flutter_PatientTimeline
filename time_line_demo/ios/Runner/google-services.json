@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1097044630405",
+    "firebase_url": "https://patient-ticket.firebaseio.com",
+    "project_id": "patient-ticket",
+    "storage_bucket": "patient-ticket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097044630405:android:56d94aabe5c1e5a42f82ec",
+        "android_client_info": {
+          "package_name": "com.example.time_line_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097044630405-r763flfvkc41n0044dsqkc871f5rjsqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Gce3lhD1qk1q-lL7s7wbAr9GHfqbeow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097044630405-r763flfvkc41n0044dsqkc871f5rjsqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
